@@ -34,7 +34,7 @@
 <div class="container border rounded p-4">
 
 
-<h1 class="text-center">WELCOME HOME </h1>
+<h1 class="text-center">WELCOME TO TECHHUB </h1>
 
 </div>
 </body>
